@@ -92,6 +92,13 @@ npm run dev
 Akses aplikasi di: [http://localhost:8000](http://localhost:8000)
 Akses Admin Panel di: [http://localhost:8000/admin](http://localhost:8000/admin)
 
+### 5. Admin Credentials
+
+Lu bisa login ke dashboard pake akun ini:
+
+- **Email:** `admin@admin.com`
+- **Password:** `password`
+
 ---
 
 _Hidup ini berat, sewa aja dulu._
